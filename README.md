@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tanishka Jain</h1>
-<h3 align="center">Currently a second year student, pursuing the computer science specializing in Internet of Things (IoT) in engineering. I am particularly skilled in basics of C++ and java programming, HTML, CSS and javascript Programming. Also I possess a comprehensive understanding of cloud platforms. I am always eager to learn and stay updated with the latest advancements in the technical fields. If you are looking for an enthusiastic and results-driven professional to join your team, let's connect! I am open to new opportunities, partnerships, and discussions.</h3>
+<h3 align="center">👩‍💻 CS Engineering (IoT) | Full-Stack Developer | Open Source Contributor
+💡 Skilled in C++, Python, JS, Reactjs & Cloud
+🚀 Building real-world solutions with code + curiosity
+📬 Open to collab, contributions & cool projects!
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishka2004&label=Profile%20views&color=0e75b6&style=flat" alt="tanishka2004" /> </p>
 
